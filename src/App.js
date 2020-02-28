@@ -1,26 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { DndProvider } from "react-dnd";
+import Backend from 'react-dnd-html5-backend';
+import Board from './components2/Board';
+
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <DndProvider backend={Backend}>
+      <div className="TopBar">
+      <h1 className="Title">Pathfinder Visualizer V1.0</h1>
+      </div>  
+      <div className="Board">
+      <Board/>
+      </div>
+      </DndProvider>
     </div>
   );
 }
 
 export default App;
+

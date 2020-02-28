@@ -1,0 +1,29 @@
+.RunButton{
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border: 0.1em solid black;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+    width: 8em;
+    height: 4em;
+}
+
+.ResetButton{
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border: 0.1em solid black;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+    width: 8em;
+    height: 4em;
+}
