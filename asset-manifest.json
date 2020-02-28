@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/YogaBudiman/pathfinderVisualizer.git/static/css/main.4f041620.chunk.css",
+    "main.js": "/YogaBudiman/pathfinderVisualizer.git/static/js/main.90272062.chunk.js",
+    "main.js.map": "/YogaBudiman/pathfinderVisualizer.git/static/js/main.90272062.chunk.js.map",
+    "runtime-main.js": "/YogaBudiman/pathfinderVisualizer.git/static/js/runtime-main.ff0f7511.js",
+    "runtime-main.js.map": "/YogaBudiman/pathfinderVisualizer.git/static/js/runtime-main.ff0f7511.js.map",
+    "static/js/2.87a54e3a.chunk.js": "/YogaBudiman/pathfinderVisualizer.git/static/js/2.87a54e3a.chunk.js",
+    "static/js/2.87a54e3a.chunk.js.map": "/YogaBudiman/pathfinderVisualizer.git/static/js/2.87a54e3a.chunk.js.map",
+    "index.html": "/YogaBudiman/pathfinderVisualizer.git/index.html",
+    "precache-manifest.c56fc5ef2de8d126fc8a74d01a11525d.js": "/YogaBudiman/pathfinderVisualizer.git/precache-manifest.c56fc5ef2de8d126fc8a74d01a11525d.js",
+    "service-worker.js": "/YogaBudiman/pathfinderVisualizer.git/service-worker.js",
+    "static/css/main.4f041620.chunk.css.map": "/YogaBudiman/pathfinderVisualizer.git/static/css/main.4f041620.chunk.css.map",
+    "static/js/2.87a54e3a.chunk.js.LICENSE.txt": "/YogaBudiman/pathfinderVisualizer.git/static/js/2.87a54e3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff0f7511.js",
+    "static/js/2.87a54e3a.chunk.js",
+    "static/css/main.4f041620.chunk.css",
+    "static/js/main.90272062.chunk.js"
+  ]
+}
