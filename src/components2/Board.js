@@ -146,8 +146,9 @@ class Board extends React.Component{
         const {finishY} = this.state;
 
         return(
-            <div>
+            <div className="ButtonContainer">
                 <button className="RunButton" type="button" onClick={this.findAPath}>Run</button>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <button className="ResetButton" type="button" onClick={this.restart}>Reset</button>
             <div
             style={{

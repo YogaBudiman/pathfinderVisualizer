@@ -1,6 +1,7 @@
 import React from 'react';
 import {ItemTypes} from './Constants';
 import {useDrag} from 'react-dnd';
+import Sushi from './images/sushi.png';
 
 export default function Finish(){
 
@@ -21,7 +22,7 @@ export default function Finish(){
                 cursor: 'pointer',
             }}
         >
-            O
+            <img src={Sushi} alt="O"/>
         </div>
     ) 
 }

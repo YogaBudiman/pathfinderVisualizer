@@ -1,6 +1,7 @@
 import React from 'react';
 import {ItemTypes} from './Constants';
 import {useDrag} from 'react-dnd';
+import Critter from './images/male.gif'
 
 export default function Start(){
 
@@ -21,7 +22,7 @@ export default function Start(){
                 cursor: 'pointer',
             }}
         >
-            ᗘ
+            <img src={Critter} alt="V"/>
         </div>
     ) 
 }

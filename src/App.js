@@ -11,8 +11,9 @@ function App() {
     <div className="App">
       <DndProvider backend={Backend}>
       <div className="TopBar">
-      <h1 className="Title">Pathfinder Visualizer V1.0</h1>
-      </div>  
+      <h1 className="Title">Pathfinder Visualizer</h1>
+      <p className="Instructions">Instructions: Move the person and sushi on the board. Press the tiles to turn them into walls</p>
+      </div> 
       <div className="Board">
       <Board/>
       </div>

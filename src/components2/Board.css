@@ -1,3 +1,12 @@
+.ButtonContainer{
+    text-align: center;
+}
+
+.Instructions{
+    text-align: center;
+    color: white;
+}
+
 .RunButton{
     display: inline-block;
     padding: 0.35em 1.2em;
@@ -11,6 +20,7 @@
     text-align: center;
     width: 8em;
     height: 4em;
+    margin-bottom: 2em;
 }
 
 .ResetButton{
@@ -26,4 +36,7 @@
     text-align: center;
     width: 8em;
     height: 4em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+
 }
